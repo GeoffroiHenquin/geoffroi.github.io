@@ -1,0 +1,308 @@
+[
+  {
+    "id": "wizboyz",
+    "featured": true,
+    "title": "Wizboyz",
+    "subtitle": "A party game for Nintendo Switch",
+    "year": "2026",
+    "role": "Game Programmer / Porting Programmer / Release Manager",
+    "context": "University extracurricular project",
+    "description": "A local multiplayer party game for Nintendo Switch, inspired by Super Smash Bros, in which the players play as wizards and must use their spells to throw each other off the map.",
+    "technologies": [
+      "Nintendo Switch Devkit",
+      "Unity",
+      "C#"
+    ],
+    "links": [
+      {
+        "label": "Nintendo Store",
+        "url": "https://www.nintendo.com/en-ca/store/products/wizboyz-switch/"
+      },
+      {
+        "label": "Gamejam",
+        "url": "https://mywnn.itch.io/wizboyz"
+      }
+    ],
+    "images": [
+      "assets/projects/wizboyz/images/hero_banner_test_01.png",
+      "assets/projects/wizboyz/images/hero_banner_test_02.png",
+      "assets/projects/wizboyz/images/montagne.jpg",
+      "assets/projects/wizboyz/images/ice.jpg",
+      "assets/projects/wizboyz/images/character select.jpg",
+      "assets/projects/wizboyz/images/lave.jpg",
+      "assets/projects/wizboyz/images/winscreen.jpg",
+      "assets/projects/wizboyz/images/long_live_the_king.jpg"
+    ],
+    "videos": [],
+    "youtube_videos": [],
+    "sections": [
+      {
+        "title": "The Gamejam version",
+        "text": "In the winter of 2026, a Gamejam called the \"Switchjam\" was organized by UQAT. The goal was to create a party game that could be played with two Nintendo Switch Joy-Cons. The winners of the Gamejam would get the opportunity to port their game on Nintendo Switch and publish it on the Nintendo Store. Our prototype won the Gamejam and can now be found on itch.io."
+      },
+      {
+        "title": "The Nintendo Switch version",
+        "text": "After winning the Gamejam, my team and I spent our entire summer working on the game to improve and complete it. We replaced all the assets, models, and sounds for better versions. We added multiple spells to give players as many options as possible. We also made various other changes to the levels and the gameplay in order to maximize the fun for the players. Finally, we worked with the Devkit in order to make the game work on the console. The game can now be found on the Nintendo Store as a digital release."
+      },
+      {
+        "title": "What it is about",
+        "text": "Wizboyz is a local multiplayer party game for the Nintendo Switch. In this game, between two and four players can play as Wizards and use spells. The players can use the motion feature of their Nintendo Joy-Cons to invoke the spells. The players have to use their spells on each other to augment their percentage and push them off the map. The last one standing wins."
+      },
+      {
+        "title": "What I worked on",
+        "text": "During the Gamejam, my main job was to make the Joy-Cons work on a PC version of the game with the BetterJoy library for Unity. While working on the Nintendo Switch version, my role was to work directly with the Nintendo Switch Devkit to ensure that all the features of the game work on the console, including the inputs with the Joy-Cons and the save system for the settings. Another role that I had was to manage the release of the game. This means I had to find and enter all the information required for the lotcheck and the store page, as well as verify that everything is correct according to the guidelines. I also programmed various small gameplay features for the game."
+      }
+    ],
+    "code": ""
+  },
+
+  {
+    "id": "godhunter-engine",
+    "featured": true,
+    "title": "Godhunter Engine",
+    "subtitle": "A custom C++ Game Engine",
+    "year": "2021-2028",
+    "role": "Engine Programmer",
+    "context": "Personal project",
+    "description": "A custom C++ Game Engine.",
+    "technologies": [
+      "C++",
+      "CMake"
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/GeoffroiHenquin/GodHunter-Engine"
+      }
+    ],
+    "images": [
+      "assets/projects/godhunter_engine/images/gh.png"
+    ],
+    "videos": [],
+    "youtube_videos": [],
+    "sections": [
+      {
+        "title": "The Context",
+        "text": "I decided to work on a custom game engine in 2021 in order to learn how game engines work. There hasn't been much progress since then yet because of a lack of time while in university."
+      },
+      {
+        "title": "The goals",
+        "text": "I hope to make it into an engine with a data-oriented design. I also want to give the user as much freedom as possible when making a game."
+      }
+    ],
+    "code": ""
+  },
+
+  {
+    "id": "lines-of-action-ai",
+    "featured": false,
+    "title": "Lines Of Action AI",
+    "subtitle": "An AI that plays a Lines of Action game",
+    "year": "2022",
+    "role": "AI Programmer",
+    "context": "University project",
+    "description": "An Artificial Intelligence built with the Java programming language designed to play the game Lines Of Action.",
+    "technologies": [
+      "Java"
+    ],
+    "links": [],
+    "images": [
+      "assets/projects/lines_of_action_ai/images/loa.png"
+    ],
+    "videos": [
+      "assets/projects/lines_of_action_ai/videos/loa.mp4"
+    ],
+    "youtube_videos": [],
+    "sections": [
+      {
+        "title": "The Context",
+        "text": "This was the final project for an Algorithms and Datastructures class when I was studying software engineering at university."
+      },
+      {
+        "title": "Lines Of Action",
+        "text": "In lines of action, each player starts the game with pieces on both sides of the board. The goal of each player is to move their pieces in order to connect all of them together. The pieces have to move the same number of spaces as the number of pieces there are on the line. By moving a piece over the piece of the other player, you can remove the piece of the other player."
+      },
+      {
+        "title": "What I made",
+        "text": "The students were provided with an executable which contained the Lines of Action game, as well as a base for a Java program that could interact with the executable. I built a Java program with an AI that can play the Lines of Action game."
+      },
+      {
+        "title": "The results",
+        "text": "There were two tests. The first one was a competition against three levels of an AI built in the Lines of Action executable. My AI would win against all three levels an average of nine times out of ten. The second one was a competition against the rest of the class. My AI got the fifth place out of sixteen."
+      }
+    ],
+    "code": ""
+  },
+
+  {
+    "id": "toy-box",
+    "featured": false,
+    "title": "Toy Box",
+    "subtitle": "A survival horror game",
+    "year": "2021",
+    "role": "Game Programmer / Designer / Artist",
+    "context": "Final project done in college",
+    "description": "An horror game in which the player walks around in a strange maze, activating a bunch of arcades in order to open a door, while trying to evade a monster that pursues them.",
+    "technologies": [
+      "Unreal Engine 4",
+      "Blueprints",
+      "C++"
+    ],
+    "links": [
+      {
+        "label": "Gamejolt",
+        "url": "https://gamejolt.com/games/toyboxsv/600893"
+      }
+    ],
+    "images": [
+      "assets/projects/toy_box/images/600893-crop0_50_1280_770-7qg9az5c-v4.webp"
+    ],
+    "videos": [],
+    "youtube_videos": [
+      "https://www.youtube.com/embed/TXSYJq0IrK8?si=NzL1LQHHDMxzczHK",
+      "https://www.youtube.com/embed/gYNBFX8uuo4?si=Sp2ZXWYCwY5Tck3k",
+      "https://www.youtube.com/embed/HP0_UhG8ooY?si=gEEvhAhxMV7n4TK3"
+    ],
+    "sections": [
+      {
+        "title": "The Context",
+        "text": "For our final project in college, each student had to learn a technology not taught by the multimedia department and use it to make a project. I choose to learn and use Unreal Engine 4."
+      },
+      {
+        "title": "What I worked on",
+        "text": "I made the game with Unreal Engine 4. Most of the gameplay was made with Blueprints, but some of them were made with C++. I made all the 3D models and animations used in the game with Autodesk Maya. I also made the music with a software from the Adobe Suite."
+      }
+    ],
+    "code": ""
+  },
+
+  {
+    "id": "tic-tac-toe",
+    "featured": false,
+    "title": "Tic-Tac-Toe",
+    "subtitle": "A paper-and-pencil game with a built-in AI",
+    "year": "2020",
+    "role": "Game and AI Programmer",
+    "context": "Personal project",
+    "description": "A paper-and-pencil game in which two players try to make a line of three tokens on a three by three grid. Here, the second player is an AI.",
+    "technologies": [
+      "Godot",
+      "GDScript"
+    ],
+    "links": [
+      {
+        "label": "Gamejolt",
+        "url": "https://gamejolt.com/games/TicTacToeGodotEx/570554"
+      }
+    ],
+    "images": [
+      "assets/projects/tic_tac_toe/images/570554-ymhmns9i-v4.webp"
+    ],
+    "videos": [
+      "assets/projects/tic_tac_toe/videos/ttt.mp4"
+    ],
+    "youtube_videos": [],
+    "sections": [
+      {
+        "title": "The Context",
+        "text": "I originally worked on a Tic-Tac-Toe game for a class in college. This first version used Phaser, a JavaScript library to make games to play in a web browser. My main focus during that project was to create an AI that can play the game. Later, as a personal project, I remade the game with Godot and GDScript in order to learn those technologies."
+      }
+    ],
+    "code": ""
+  },
+
+  {
+    "id": "chronoshift",
+    "featured": true,
+    "title": "Chronoshift",
+    "subtitle": "A top-down hack-n-slash game with a time freeze mechanic",
+    "year": "2020",
+    "role": "Gameplay and AI Programmer",
+    "context": "School project done in college",
+    "description": "A Hack-n-Slash puzzle game built with Unity in which the player has the ability to freeze time around themselves.",
+    "technologies": [
+      "Unity",
+      "C#"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://chronoshift-jeu.netlify.app/"
+      }
+    ],
+    "images": [
+      "assets/projects/chronoshift/images/maxresdefault.jpg"
+    ],
+    "videos": [],
+    "youtube_videos": [
+      "https://www.youtube.com/embed/SDplUBREnyY?si=NibnWKHFlQHeq5-s"
+    ],
+    "sections": [
+      {
+        "title": "The Context",
+        "text": "I worked on that game for a video game development class in college, in which we had to design and program an entire game with an assigned team."
+      },
+      {
+        "title": "What's the game",
+        "text": "It's a top-down hack-n-slash puzzle game in which the player solves puzzles by interacting with the environment and moving stuff around, and fights enemies by shooting at them. The player also has the ability to freeze time in order to solve various puzzles and eliminate multiple enemies all at once."
+      },
+      {
+        "title": "What I worked on",
+        "text": "For that project, I helped design the game by combining the ideas of every member of the team into one coherent concept. As for the development, I programmed the AI for the enemies and I fully made the time freeze ability."
+      }
+    ],
+    "code": ""
+  },
+
+  {
+    "id": "programmed-nightmare",
+    "featured": false,
+    "title": "Programmed Nightmare",
+    "subtitle": "A maze solving RPG game",
+    "year": "2018",
+    "role": "Game Programmer / Designer / Artist",
+    "context": "Personal project",
+    "description": "A maze solving RPG game inspired by the game \"The Desolate Hope\" and made with RPG Maker MV in which the player roleplays as a program in a ship's computer.",
+    "technologies": [
+      "RPG Maker MV",
+      "Unity",
+      "C#"
+    ],
+    "links": [
+      {
+        "label": "Gamejolt",
+        "url": "https://gamejolt.com/games/ProgrammedNightmare/353121"
+      },
+      {
+        "label": "Remake",
+        "url": "https://gamejolt.com/games/pn_demo1/518878"
+      }
+    ],
+    "images": [
+      "assets/projects/programmed_nightmare/images/pn.webp"
+    ],
+    "videos": [
+      "assets/projects/programmed_nightmare/videos/pn.mp4"
+    ],
+    "youtube_videos": [],
+    "sections": [
+      {
+        "title": "The Context",
+        "text": "It was my first game, and I made it as a personal project a little before starting college."
+      },
+      {
+        "title": "What it is about",
+        "text": "It's a game about a program trying to exit a computer. To achieve that, the player has to solve various mazes. The game contains an overworld and seven levels. It also contains two side quests that require the player to find other programs in the overworld."
+      },
+      {
+        "title": "What I worked on",
+        "text": "I worked on the gameplay using \"RPG Maker MV\". I also made every asset such as sprites and sounds in various other programs. As an example, I made the music of the game with \"GarageBand\". This project allowed me to understand what a game needs to be completed and the first basics of how to design a game."
+      },
+      {
+        "title": "The remake",
+        "text": "I later started to work on a remake with Unity and C#, but I didn't get to finish it. The remake had a new gameplay where the player had a state and could go through some obstacles depending on the state. A demo of that remake can be found on Gamejolt."
+      }
+    ],
+    "code": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2026",
+    "title": "Game development for Nintendo Switch",
+    "org": "Université du Québec en Abitibi-Témiscamingue",
+    "text": "After winning the Switch Jam, a game jam organized by the university in which we had to make a game that could work with Nintendo Joy-Cons, my team and I worked an entire summer to improve the game and make it work on Nintendo Switch. My role was to work directly with the Devkit and the platforms provided by Nintendo to make the game work on Switch and to get it to release on the Nintendo eShop."
+  },
+  {
+    "date": "2025 \u2014 Present",
+    "title": "Bachelor's degree in video game creation (gameplay programming)",
+    "org": "Université du Québec en Abitibi-Témiscamingue",
+    "text": "I've been studying game programming at UQAT. This includes how to make games with Unity and C#, and with Unreal Engine 5, C++, and Blueprints. It also includes a few useful math classes. I've also taken a class on sound design. I should get my degree sometime in 2028."
+  },
+  {
+    "date": "2024 \u2014 Present",
+    "title": "Video game designer and developer",
+    "org": "loufa",
+    "text": "I've been working with a small indie game studio on the design and development of various games. I've designed and experimented with two games that I've not made yet, as they can be better. Currently, we are working on a mobile game."
+  },
+  {
+    "date": "2023 \u2014 2024",
+    "title": "Web developer (Internship)",
+    "org": "loufa",
+    "text": "In 2023, I did an internship at loufa, a small web development company. I was implementing various features and repairing bugs on a specific project using Vue.js and TypeScript. After my internship, I kept working part-time with them until the project ended."
+  },
+  {
+    "date": "2021 \u2014 2024",
+    "title": "Bachelor's degree in software engineering",
+    "org": "École de technologie supérieure",
+    "text": "I studied software engineering at ÉTS. This included object-oriented design and programming with Java and C++. It also included a lot of useful math classes such as differential calculus, statistics, discrete mathematics, and linear algebra. While I was there, I was also a member of Conjure, the video game creation club. This degree was not finalized."
+  },
+  {
+    "date": "2021",
+    "title": "Back-end developer (Internship)",
+    "org": "Webit",
+    "text": "At the end of college, I did an internship at Webit, a web development company. My role there was to repair bugs and help add features to various WordPress websites."
+  },
+  {
+    "date": "2020 and 2021",
+    "title": "Intercollegiate Game Jam",
+    "org": "Valleyfield College",
+    "text": "During college, I participated in two editions of the Intercollegiate Game Jam organized by Valleyfield College. Those were my first game jams."
+  },
+  {
+    "date": "2018 \u2014 2021",
+    "title": "College diploma in multimedia integration",
+    "org": "Maisonneuve College",
+    "text": "I studied multimedia at the Maisonneuve College. This included web design and development, video game development, 3D modelling and animation, as well as video, audio, and image editing. In 2019, I was also a tutor at the Help Centre of the multimedia program. As such, my role was to help students fix bugs in their work and explain the material of their courses."
+  },
+  {
+    "date": "2018",
+    "title": "First game released",
+    "org": "Personal project",
+    "text": "While I was in high school, I designed, built, and released my first game. It was a puzzle game made with RPG Maker in which the player had to solve mazes. It was the start of my career as a game developer."
+  }
+]
